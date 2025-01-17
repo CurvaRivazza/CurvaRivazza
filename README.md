@@ -7,10 +7,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-### About me
-- I'm currently studying mobile development, databases, and the .NET platform
-- Reach me by [email](mailto:dev.assist@yandex.ru)
-
+<h3>About me</h3>
+    <p>I'm currently studying mobile development, databases, and the .NET platform.</p>
+    <p>Reach me by <a href="mailto:dev.assist@yandex.ru">email</a></p>
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S0s0Combain&theme=github_dark"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S0s0Combain&theme=github_dark"/>
