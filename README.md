@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +7,7 @@
 <body>
     <div id="header" align="center">
         <h1> Hi there, I'm Artem</h1>
-        <h3>Android developer from St. Petersburg, Russia</h3>
+        <h3>Student from St. Petersburg, Russia</h3>
     </div>
     <div id="socials" align="center">
         <a href="https://t.me/SOSO_Combain">
