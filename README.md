@@ -18,7 +18,7 @@
     <p>Reach me by <a href="mailto:dev.assist@yandex.ru">dev.assist@yandex.ru</a></p>
     <h3>LeetCode Stats</h3>
     <div>
-        <img src="https://leetcard.jacoblin.cool/jacoblincool?ext=activity" alt="LeetCode Stats"/>
+        <img src="https://leetcard.jacoblin.cool/soso_combain?ext=activity" alt="LeetCode Stats"/>
     </div>
     <h3>GitHub Stats</h3>
     <div id="stat">
