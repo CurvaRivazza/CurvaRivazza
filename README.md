@@ -23,11 +23,11 @@
     <h3>GitHub Stats</h3>
     <div id="stat">
         <div style="display: inline-block; margin: 10px;">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S0s0Combain&theme=github_dark" alt="Profile Details"/>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CurvaRivazza&theme=github_dark" alt="Profile Details"/>
         </div>
         <div style="display: inline-block; margin: 10px;">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S0s0Combain&theme=github_dark" alt="Most Commit Language"/>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S0s0Combain&theme=github_dark" alt="Stats"/>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CurvaRivazza&theme=github_dark" alt="Most Commit Language"/>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CurvaRivazza&theme=github_dark" alt="Stats"/>
         </div>
     </div>
 </body>
