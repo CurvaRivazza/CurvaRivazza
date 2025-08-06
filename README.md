@@ -6,7 +6,7 @@
 <body>
     <div id="header" align="center">
         <h1> Hi there, I'm Artem</h1>
-        <h3>Student from St. Petersburg, Russia</h3>
+        <h3>Student from St. Petersburg, Russia. I am looking for the first work in my specialty</h3>
     </div>
     <div id="socials" align="center">
         <a href="https://t.me/SOSO_Combain">
